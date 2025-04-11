@@ -1,6 +1,6 @@
-# Master's Thesis Repository
+# FungiGut Repository
 
-This repository contains scripts, parameters, and workflows from my master's thesis.
+This repository contains scripts, parameters, and workflows from FungiGut study.
 
 ## Repository Structure
 
